@@ -1,5 +1,5 @@
 # Safety Helmet
-Any bike rider can use it to safe himself from accidents When the helmet hit any thing, the mobile application start count to 30 second and if the bike rider don't stop it The helmet sends E-mail to specific person with the location to get help
+Any bike rider can use it to save himself from accidents When the helmet hits anything, the mobile application start counting to 30 seconds and if the bike rider doesn't stop The helmet sends an E-mail to a specific person with the location to get help
 
 <!-- 
 <details>
